@@ -1,0 +1,10 @@
+html5-boilerplay: es para generar una estructura de la pag
+<!-- ... --> : sirve para comentar
+h1: es head(encabezado) 1
+./: para buscar archivos desde carpetas
+img : para colocar una imaguen
+<p>Lorem</p> : da un texto aleatorio para ejemplos
+mayus+alt+F : le da formato al texto
+text-align: center; : es para alinear textos, comunmente se utiliza en los styles
+#Precio : para llamar un id en styles se empieza con #
+<br> : es para dar una separacion entre elementos (break)
