@@ -8,3 +8,11 @@ mayus+alt+F : le da formato al texto
 text-align: center; : es para alinear textos, comunmente se utiliza en los styles
 #Precio : para llamar un id en styles se empieza con #
 <br> : es para dar una separacion entre elementos (break)
+boton:hover  : permite sobrevolar el boton, que parpadee y darle color a sus funciones || border: 2px solid black; background-color: white; color: black; font-size: larger;
+function mostrarCartel(){} : ejemplo de agregar una funcion en el archivo script.js para darle su respectivo conportamiento -> boton.innerHTML =
+const boton = document.getElementById("compro");  : cuando se presiona el boton se muestre en el id "compro" el texto definido en las funciones de los botones
+https://necolas.github.io/normalize.css/  : hace que los navegadores representen todos los elementos de manera más consistente y en línea con los estándares modernos. Se dirige con precisión solo a los estilos que necesitan normalización.
+<a></a>  :  La a hace links
+label : es etiqueta
+input : es el campo donde puedes meter el texto
+placeholder : para poner alguna palabra en las casillas de los input
